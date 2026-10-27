@@ -1,0 +1,7 @@
+# Runtime
+anthropic>=0.40.0
+pydantic>=2.6,<3
+
+# Dev / CI
+pytest>=8.0
+ruff>=0.6
